@@ -1,0 +1,9 @@
+{
+  "name": "design-patterns-for-humans",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/calgarysoftwarecrafters/design-patterns-for-humans.git",
+  "author": "Jacqueline Lee <jbilston@atb.com>",
+  "license": "MIT",
+  "private": false
+}
